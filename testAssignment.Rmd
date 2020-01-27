@@ -27,7 +27,7 @@ First, we need to read the data into R. For this assignment, I ask you to use da
 ```{r}
 library(tidyverse)
 # This attaches the tidyverse package. If you get an error here you need to install the package first. 
-Data <- read_tsv("")
+
 # You need to add between the quotation marks a full path to the required file on your computer.
 ```
 
