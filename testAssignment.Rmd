@@ -1,15 +1,17 @@
 ---
 title: "Test statistical assignment"
-author: "Alexey Bessudnov"
-date: "22 January 2020"
+author: "Emilia Cook"
+date: "27January 2020"
 output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
 ## Introduction
+
+Have not completed the assignment as was just trying to work out how to submit the test assignment to github.
+Author is Emilia Cook
 
 Please change the author and date fields above as appropriate. Do not change the output format. Once you have completed the assignment you want to knit your document into a markdown document in the "github_document" format and then commit both the .Rmd and .md files (and all the associated files with graphs) to your private assignment repository on Github.
 
@@ -28,6 +30,8 @@ library(tidyverse)
 Data <- read_tsv("")
 # You need to add between the quotation marks a full path to the required file on your computer.
 ```
+
+
 
 ## Tabulate variables (10 points)
 
